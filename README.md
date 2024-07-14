@@ -9,6 +9,8 @@ Reassigning a variable declared with const in JavaScript will result in a TypeEr
 
 //DAY2
 
+// Task 10: Write a program to compare two numbers using == and === and log the result to the console.
+
 In JavaScript, == and === are both comparison operators, but they behave differently in terms of type coercion.
 
 1).== (Equality Operator):
